@@ -1,0 +1,15 @@
+student_id,name,age,city,marks,education
+1,Amit,20.0,Delhi,78.0,Graduate
+2,Riya,21.0,Mumbai,85.0,Graduate
+4,Neha,22.0,Delhi,,Graduate
+6,Pooja,21.0,Pune,88.0,Graduate
+8,Anjali,23.0,Delhi,91.0,Graduate
+10,Sneha,22.0,Pune,76.0,Graduate
+11,Vikas,21.0,,82.0,Graduate
+14,Kavita,22.0,Jaipur,89.0,Graduate
+16,Sunita,21.0,Delhi,,Graduate
+17,Manoj,23.0,Mumbai,77.0,Graduate
+19,Ankit,22.0,Jaipur,68.0,Graduate
+20,Divya,21.0,Pune,90.0,Graduate
+24,Payal,21.0,Pune,86.0,Graduate
+25,Nitin,22.0,,75.0,Graduate
