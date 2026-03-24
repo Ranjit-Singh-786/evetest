@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+PyPDF2
+openai
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+
+pip install -U langchain langchain-community langchain-text-splitters
+pip install -U langchain-text-splitters
