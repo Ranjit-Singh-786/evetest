@@ -1,11 +1,22 @@
-streamlit
-python-dotenv
+streamlit 
+python-dotenv 
 PyPDF2
-openai
 langchain
 langchain-community
+langchain-text-splitters
+openai 
 langchain-openai
-faiss-cpu
 
-pip install -U langchain langchain-community langchain-text-splitters
-pip install -U langchain-text-splitters
+
+# source tt/bin/activate 
+# tt\Scripts\activate  
+# streamlit run
+
+
+ImportError: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+
+
+
+
+
+

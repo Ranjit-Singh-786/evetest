@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from openai import OpenAI
 
-# from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings 
@@ -66,8 +65,6 @@ Question:
 
     answer = response.choices[0].message.content
     return answer, context
-
-
 
 def app():
     st.title("💬 PDF Chatbot (RAG System)")
